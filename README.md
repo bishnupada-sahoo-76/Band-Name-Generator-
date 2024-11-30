@@ -14,4 +14,4 @@ A fully functional Band Name Generator for any band
 To run this code on terminal use this
 - npm install
 - nodemon solution.js
-- Type in your URL: 
+   
