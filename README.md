@@ -1,5 +1,5 @@
 # Band Name Generator
-A fully functional Band Name Generator for any band
+A fully functional Band Name Generator for any band.
 
 # Steps 
 - Make the get route work and render the solution.ejs file.
