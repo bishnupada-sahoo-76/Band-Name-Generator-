@@ -9,7 +9,6 @@ A fully functional Band Name Generator for any band.
 # Technology Used
 - JavaScript
 - npm
-
  
 ---
 To run this code on terminal use this
